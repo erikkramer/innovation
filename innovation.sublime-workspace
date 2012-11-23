@@ -207,6 +207,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "README",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix",
+				"name": "README"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -348,8 +357,36 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "README",
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "README",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
