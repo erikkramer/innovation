@@ -24,7 +24,7 @@ rel="apple-touch-icon" sizes="114x114" href="/img/resrc_logo_114.png">
  <script src="/js/modernizr-2.5.3-min.js"></script> <meta
 name="apple-mobile-web-app-capable" content="yes"><meta
 http-equiv="cleartype" content="on"><link
-rel="stylesheet" href="/css/style.css">
+rel="stylesheet" href="css/style.css">
 <!--[if lt IE 9]><link
 rel="stylesheet" media="screen" href="/css/ie.css">
 <![endif]--></head><body>
