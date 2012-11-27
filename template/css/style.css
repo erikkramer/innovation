@@ -17,7 +17,8 @@ text-align: center;
 
 #menuHeader{
   width: 989px;
-  left: 490px;
+  text-align: left;
+  margin: 0 auto;
 }
 
 #insideHdr{
