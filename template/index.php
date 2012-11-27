@@ -26,7 +26,20 @@ Copyright Studio HIER 2011
 	   <div id="insideHdr">
 		
 		<div id="menuHeader">
-                  <img src="/template/img/logoCrmw.png" style="margin-top: 15px; left: 0px;"/>
+        	<div id="menuLogo">
+        		<img src="/template/img/logoCrmw.png" style="margin-top: 15px; left: 0px;"/>
+        	</div>
+        	<div id="nav">
+        		<ul>
+        			<li class="current_page_item">bliep</li>
+        			<li class="page_item">bliep</li>
+        			<li class="page_item">bliep</li>
+        		</ul>	
+        	</div>	
+
+
+
+
  		</div>
 		
 	  </div>

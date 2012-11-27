@@ -36,3 +36,44 @@ text-align: center;
    width: 989px; 
    margin: 0 auto; 
 } 
+
+
+#menuLogo {
+  display: inline;
+}
+
+#nav {
+  float: left;
+  display: inline;
+}
+
+#nav .current_page_item a {
+  padding:1px 9px 2px;
+  font-size:12px;
+  font-size:1.2rem;
+  font-weight:bold;
+  white-space:nowrap;
+  color:#808080;
+  background-color:#e6e6e6;
+  -webkit-border-radius:9px;
+  -moz-border-radius:9px;
+  border-radius:9px;
+  -webkit-transition:background-color .25s 0 linear;
+  -moz-transition:background-color .25s 0 linear;
+  -ms-transition:background-color .25s 0 linear;
+  -o-transition:background-color .25s 0 linear;
+  transition:background-color .25s 0 linear;
+  color:#fff;
+  background-color:#414141;
+}
+
+#nav .current_page_item a:hover {
+  color:#808080;
+  text-decoration:none;
+  cursor:pointer;
+}
+
+#nav .current_page_item a:visited, 
+#nav .current_page_item a:hover {
+  color:#fff;
+}

@@ -208,12 +208,11 @@
 	"buffers":
 	[
 		{
-			"file": "README",
+			"file": "template/index.php",
 			"settings":
 			{
-				"buffer_size": 42,
-				"line_ending": "Unix",
-				"name": "README"
+				"buffer_size": 970,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -241,6 +240,7 @@
 	},
 	"file_history":
 	[
+		"/Users/ekramer/Development/phpSublimeTextWorkspace/innovation/README",
 		"/Users/ekramer/Development/phpSublimeTextWorkspace/innovation/fdsfd",
 		"/Users/ekramer/Development/mmWorkspace/kluwerfull/src/classes/controllerProductSelection.cls",
 		"/Users/ekramer/Development/mmWorkspace/kluwerfull/src/pages/ProductSelection.page",
@@ -362,24 +362,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "README",
+					"file": "template/index.php",
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								42,
-								42
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "README",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -603,7 +603,7 @@
 		"width": 0.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 309.0,
