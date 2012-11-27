@@ -18,6 +18,7 @@ text-align: center;
 #insideHdr{
   text-align: center;
   width: 800px;
+  height: 343px;	  
   margin: 0 auto; 
   background-image:url('/template/img/insideHdr.png');
   background-repeat: no-repeat;
