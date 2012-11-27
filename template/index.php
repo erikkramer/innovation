@@ -26,7 +26,7 @@ Copyright Studio HIER 2011
 	   <div id="insideHdr">
 		
 		<div id="menuHeader">
-                  <img src="/template/img/logoCrmw.png"/>
+                  <img src="/template/img/logoCrmw.png" style="margin-top: 15px;"/>
  		</div>
 		
 	  </div>

@@ -16,9 +16,8 @@ text-align: center;
 }
 
 #menuHeader{
-  margin-top: 30px;
   width: 989px;
-  
+  left: 490px;
 }
 
 #insideHdr{
