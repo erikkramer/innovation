@@ -21,7 +21,11 @@ Copyright Studio HIER 2011
 	<body>
 
 <div id="wrapper">
-	<div id="contentHeader"></div>
+	<div id="contentHeader">
+
+	   <div id="insideHdr"></div>
+
+	</div>
  
 	<div id="content"> 	
 	<h1>blaaalaaa laal</h1>

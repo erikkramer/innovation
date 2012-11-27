@@ -15,10 +15,16 @@ text-align: center;
  background-repeat:repeat-x;
 }
 
+#insideHdr{
+  width: 800px;
+  margin: 0 auto; 
+  background-image:url('/template/img/insideHdr.png');
+  background-repeat: no-repeat;
+}
 
  
 #content { 
-text-align: left; 
-width: 800px; 
-margin: 0 auto; 
+   text-align: left; 
+   width: 800px; 
+   margin: 0 auto; 
 } 
