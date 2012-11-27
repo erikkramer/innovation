@@ -88,6 +88,12 @@ a:hover, a:active {
 #nav {
   float: right;
   display: inline;
+  list-style:none;
+}
+
+#nav ul li {
+  list-style:none;
+  display: inline;
 }
 
 .current_page_item a {
@@ -123,36 +129,3 @@ a:hover, a:active {
 
 
 
-#nav {
-  margin-left:0;
-  margin-bottom:1.5em;
-  list-style:none;
-}
-
-#nav>li>a {
-  display:block;
-}
-
-#nav>li>a:hover {
-  text-decoration:none;
-  background-color:#e6e6e6;
-}
-
-#nav>.pull-right {
-  float:right;
-}
-
-#nav #nav-header {
-  display:block;
-  padding:3px 15px;
-  font-size:11px;
-  font-weight:bold;
-  line-height:1.5em;
-  color:#bfbfbf;
-  text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);
-  text-transform:uppercase;
-}
-
-#nav li+#nav-header {
-  margin-top:9px;
-}
