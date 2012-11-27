@@ -43,11 +43,11 @@ text-align: center;
 }
 
 #nav {
-  float: left;
+  float: right;
   display: inline;
 }
 
-#nav .current_page_item a {
+.current_page_item a {
   padding:1px 9px 2px;
   font-size:12px;
   font-size:1.2rem;
@@ -67,13 +67,13 @@ text-align: center;
   background-color:#414141;
 }
 
-#nav .current_page_item a:hover {
+.current_page_item a:hover {
   color:#808080;
   text-decoration:none;
   cursor:pointer;
 }
 
-#nav .current_page_item a:visited, 
-#nav .current_page_item a:hover {
+.current_page_item a:visited, 
+.current_page_item a:hover {
   color:#fff;
 }
