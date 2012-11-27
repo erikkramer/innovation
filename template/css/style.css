@@ -15,6 +15,12 @@ text-align: center;
  background-repeat:repeat-x;
 }
 
+#menuHeader{
+  margin-top: 30px;
+  width: 989px;
+  
+}
+
 #insideHdr{
   text-align: center;
   width: 989px;
