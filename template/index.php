@@ -23,7 +23,13 @@ Copyright Studio HIER 2011
 <div id="wrapper">
 	<div id="contentHeader">
 
-	   <div id="insideHdr">f</div>
+	   <div id="insideHdr">
+		
+		<div id="menuHeader">
+                  <img src="/template/img/logoCrmw.png"/>
+ 		</div>
+		
+	  </div>
 
 	</div>
  
