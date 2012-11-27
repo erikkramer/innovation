@@ -16,6 +16,7 @@ text-align: center;
 }
 
 #insideHdr{
+  text-align: center;
   width: 800px;
   margin: 0 auto; 
   background-image:url('/template/img/insideHdr.png');

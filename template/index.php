@@ -23,7 +23,7 @@ Copyright Studio HIER 2011
 <div id="wrapper">
 	<div id="contentHeader">
 
-	   <div id="insideHdr"></div>
+	   <div id="insideHdr">f</div>
 
 	</div>
  
