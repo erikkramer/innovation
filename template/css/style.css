@@ -74,6 +74,12 @@ text-align: center;
    margin: 0 auto; 
 } 
 
+#contentOfferings h3{
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
 p, ol, ul, dl, address {
   margin-bottom:1.5em;
   font-size:14px;
