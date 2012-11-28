@@ -105,16 +105,16 @@ a:hover, a:active {
 }
 
 #hdrTextHeader{
-  position: relative;
+  width: 989px;
   float: right;
-  right: 0px;
+  text-align: right;
   display: inline;
 }
 
 #hdrTextHeader h1 {
   font-family: ‘Lato’,sans-serif; font-weight: 100;
-  text-decoration: italic;
-  font-size: 22px;
+  text-align: right;
+  font-size: 20px;
 
 }
 
