@@ -80,7 +80,7 @@ cloud profffesionals is ready to serve you!
 	</div>
 
 	<div id="contentOfferings">
-		<h1>What do we offer</h1>
+		<h3>Products and Services</h3>
 	</div>	
 
 
