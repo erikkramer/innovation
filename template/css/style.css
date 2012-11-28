@@ -42,7 +42,7 @@ text-align: center;
 
 #contentFirstText{
   width: 675px;
-  display: inline;
+  display: block;
 }
 
 #contentFirstText h2 { 
@@ -54,7 +54,7 @@ text-align: center;
   float: right;
   height: 75px;
   width: 210px;
-  display: inline;
+  display: inline-block;
 }
 
 #contentFirstBlogBlurb{
