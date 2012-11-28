@@ -31,9 +31,11 @@ Copyright Studio HIER 2011
         	</div>
         	<div id="nav">
         		<ul>
-        			<li class="current_page_item"><a href="">bliep</a></li>
-        			<li class="page_item">bliep</li>
-        			<li class="page_item">bliep</li>
+        			<li class="page_item">Our Work</li>
+        			<li class="current_page_item"><a href="">Offerings</a></li>
+        			<li class="page_item">Blog</li>
+        			<li class="page_item">About Us</li>
+        			<li class="page_item">Contact</li>
         		</ul>	
         	</div>	
 
