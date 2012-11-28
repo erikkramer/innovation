@@ -51,6 +51,8 @@ text-align: center;
 
 #contentFirstBlurb{
   float: right;
+  height: 75px;
+  width: 220px;
 }
 
 #contentFirstBlogBlurb{
