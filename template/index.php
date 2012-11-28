@@ -41,7 +41,7 @@ Copyright Studio HIER 2011
 
 
          <div id="hdrTextHeader"> 		
-         	 <h1>Social, mobile, appExchange apps<br/>
+         	 <h1><!-- Social, mobile, appExchange apps --><br/>
 				 Emerging cloud technology<br/>
 				 based on salesforce.com<br/>
 				 straight from our cloud lab
