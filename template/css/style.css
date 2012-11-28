@@ -144,13 +144,13 @@ a:hover, a:active {
   width: 989px;
   float: left;
   margin-top: -20px;
-  text-align: right;
+  text-align: left;
   display: inline;
 }
 
 #hdrTextHeader h1 {
   font-family: ‘Lato’,sans-serif; font-weight: 100;
-  text-align: right;
+  text-align: left;
   line-height:150%;
   font-size: 24px;
 
