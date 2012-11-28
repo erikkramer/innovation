@@ -42,11 +42,13 @@ text-align: center;
 
 #contentFirstText{
   width: 675px;
+  display: inline;
 }
 
 #contentFirstText h2 { 
   font-family: ‘Lato’,sans-serif; font-weight: 300;
   font-size: 18px; 
+  display: inline;
 }
 
 #contentFirstBlurb{
