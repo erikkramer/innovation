@@ -38,9 +38,17 @@ text-align: center;
    margin: 0 auto; 
 } 
 
-#contentFirst h2 { 
+#contentFirstText{
+  width: 550px;
+}
+
+#contentFirstText h2 { 
   font-family: ‘Lato’,sans-serif; font-weight: 300;
   font-size: 18px; 
+}
+
+#contentFirstBlurb{
+  float: right;
 }
 
 #contentOfferings { 

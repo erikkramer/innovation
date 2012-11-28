@@ -57,14 +57,20 @@ Copyright Studio HIER 2011
 
  
 	<div id="contentFirst"> 	
-		<h2>
+
+		<div id="contentFirstText">
+			<h2>
 
 Our Emerging technologies lab  delivers high quality cloud based solutions like 
 mobile application or social appliction, salesforce.com apps or building blocks.
 We also do legacy (web) aoos t to cloud apps migrations, our team of nifty 
 cloud profffesionals is ready to serve you!
 
-		</h2>
+			</h2>
+		</div>
+
+		<div id="contentFirstBlurb"></div>
+		
 	</div>
 
 	<div id="contentOfferings">
