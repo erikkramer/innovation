@@ -53,10 +53,17 @@ Copyright Studio HIER 2011
 	  </div>
 
 	</div>
+
+
  
-	<div id="content"> 	
-	<h1>blaaalaaa laal</h1>
-	</div> 
+	<div id="contentFirst"> 	
+		<h1>blaaalaaa laal</h1>
+	</div>
+
+	<div id="contentOfferings">
+		<h1>What do we offer</h1>
+	</div>	
+
 
 	<div id="contentFooter"></div>
 </div> 	

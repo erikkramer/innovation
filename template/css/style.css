@@ -32,7 +32,14 @@ text-align: center;
 }
 
  
-#content { 
+#contentFirst { 
+   text-align: left; 
+   width: 989px; 
+   margin: 0 auto; 
+} 
+
+
+#contentOfferings { 
    text-align: left; 
    width: 989px; 
    margin: 0 auto; 
