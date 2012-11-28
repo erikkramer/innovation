@@ -33,9 +33,11 @@ text-align: center;
 
  
 #contentFirst { 
+
    text-align: left; 
    width: 989px; 
    margin: 0 auto; 
+   margin-top: 50px;
 } 
 
 #contentFirstText{
