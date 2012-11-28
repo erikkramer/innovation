@@ -48,7 +48,6 @@ text-align: center;
 #contentFirstText h2 { 
   font-family: ‘Lato’,sans-serif; font-weight: 300;
   font-size: 18px; 
-  display: inline;
 }
 
 #contentFirstBlurb{
@@ -60,7 +59,6 @@ text-align: center;
 
 #contentFirstBlogBlurb{
 
-  display: inline;
   height: 75px;
   width: 220px;
   -webkit-border-radius:9px;
