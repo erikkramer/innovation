@@ -53,6 +53,17 @@ text-align: center;
   float: right;
 }
 
+#contentFirstBlogBlurb{
+
+  height: 75px;
+  width: 220px;
+  -webkit-border-radius:9px;
+  -moz-border-radius:9px;
+  border-radius:9px;
+  border 1px solid black;
+
+}
+
 #contentOfferings { 
    text-align: left; 
    width: 989px; 
