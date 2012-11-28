@@ -69,11 +69,13 @@ cloud profffesionals is ready to serve you!
 			</h2>
 		</div>
 
+		<!--
 		<div id="contentFirstBlurb">
 
 			<div id="contentFirstBlogBlurb">fdsf</div>
 
 		</div>
+	-->
 
 	</div>
 
