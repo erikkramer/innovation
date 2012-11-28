@@ -107,6 +107,7 @@ a:hover, a:active {
 #hdrTextHeader{
   width: 989px;
   float: right;
+  margin-top: -20px;
   text-align: right;
   display: inline;
 }
