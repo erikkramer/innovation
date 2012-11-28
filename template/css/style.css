@@ -53,10 +53,12 @@ text-align: center;
   float: right;
   height: 75px;
   width: 220px;
+  display: inline;
 }
 
 #contentFirstBlogBlurb{
 
+  display: inline;
   height: 75px;
   width: 220px;
   -webkit-border-radius:9px;
