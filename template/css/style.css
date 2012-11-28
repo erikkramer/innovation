@@ -104,6 +104,17 @@ a:hover, a:active {
   font-family: ‘Lato’,sans-serif; font-weight: 400;
 }
 
+#hdrTextHeader{
+  float: right;
+  display: inline;
+}
+
+#hdrTextHeader h1 {
+  font-family: ‘Lato’,sans-serif; font-weight: 200;
+  font-size: 22px;
+
+}
+
 .current_page_item a {
   padding:1px 9px 2px;
   font-size:12px;
